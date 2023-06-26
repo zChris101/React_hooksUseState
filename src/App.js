@@ -13,7 +13,6 @@ export default function App() {
     setTime(newTime);
   }
 
-  console.log(time);
   return (
 
     <div className="container">
